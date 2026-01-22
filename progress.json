@@ -165,5 +165,14 @@
       "Answer for What's sum of values in north.csv on Jan 05th? is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769045142.492808,
+    "completed_at": 1769045145.764674,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
